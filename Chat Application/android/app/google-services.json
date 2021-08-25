@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762819608955",
+    "project_id": "real-time-chat-f68ba",
+    "storage_bucket": "real-time-chat-f68ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762819608955:android:4289c6593a19bef5c93dde",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762819608955-hjrb46kfmt1fmqm2l05t0nnutlg0ejb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1UcWnk6RuhdY5wcuC4MXaGMkQVPjgU_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762819608955-hjrb46kfmt1fmqm2l05t0nnutlg0ejb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
